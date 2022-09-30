@@ -1,1 +1,2 @@
-This is my second Readme
+My second README
+Nice trying out new codes
